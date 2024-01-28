@@ -58,8 +58,8 @@ id: South Africa
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sudan~South//
-markerFolder: ./Sudan~South//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 
