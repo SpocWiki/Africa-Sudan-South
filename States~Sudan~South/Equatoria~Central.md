@@ -40,11 +40,18 @@ markerFolder: ./Central_Equatoria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria|Central_Equatoria]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.public|Central_Equatoria.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.internal|Central_Equatoria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.protect|Central_Equatoria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.private|Central_Equatoria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.personal|Central_Equatoria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Central_Equatoria.secret|Central_Equatoria.secret]] 
+
+### #is_/same_as :: [Equatoria~Central](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.md) 
+
+### #is_/same_as :: [Equatoria~Central.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.public.md) 
+
+### #is_/same_as :: [Equatoria~Central.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.internal.md) 
+
+### #is_/same_as :: [Equatoria~Central.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.protect.md) 
+
+### #is_/same_as :: [Equatoria~Central.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.private.md) 
+
+### #is_/same_as :: [Equatoria~Central.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.personal.md) 
+
+### #is_/same_as :: [Equatoria~Central.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./West_Equatoria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria|West_Equatoria]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.public|West_Equatoria.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.internal|West_Equatoria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.protect|West_Equatoria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.private|West_Equatoria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.personal|West_Equatoria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/West_Equatoria.secret|West_Equatoria.secret]] 
+
+### #is_/same_as :: [Equatoria~West](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~West.md) 
+
+### #is_/same_as :: [Equatoria~West.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~West.public.md) 
+
+### #is_/same_as :: [Equatoria~West.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~West.internal.md) 
+
+### #is_/same_as :: [Equatoria~West.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~West.protect.md) 
+
+### #is_/same_as :: [Equatoria~West.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~West.private.md) 
+
+### #is_/same_as :: [Equatoria~West.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~West.personal.md) 
+
+### #is_/same_as :: [Equatoria~West.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~West.secret.md)
 

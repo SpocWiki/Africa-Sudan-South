@@ -117,10 +117,5 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [	ISO3166-1-numeric	 :: 728 ] 
 
 
-## Confidential Links & Embeds: 
-- [[Sudan~South|Sudan~South]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Sudan~South.internal|Sudan~South.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Sudan~South.protect|Sudan~South.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Sudan~South.private|Sudan~South.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Sudan~South.personal|Sudan~South.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Sudan~South.secret|Sudan~South.secret]] 
+
+

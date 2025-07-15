@@ -40,11 +40,18 @@ markerFolder: ./Warap/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/Warap|Warap]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Warap.public|Warap.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Warap.internal|Warap.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Warap.protect|Warap.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Warap.private|Warap.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Warap.personal|Warap.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Warap.secret|Warap.secret]] 
+
+### #is_/same_as :: [Warap](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Warap.md) 
+
+### #is_/same_as :: [Warap.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Warap.public.md) 
+
+### #is_/same_as :: [Warap.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Warap.internal.md) 
+
+### #is_/same_as :: [Warap.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Warap.protect.md) 
+
+### #is_/same_as :: [Warap.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Warap.private.md) 
+
+### #is_/same_as :: [Warap.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Warap.personal.md) 
+
+### #is_/same_as :: [Warap.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Warap.secret.md)
 

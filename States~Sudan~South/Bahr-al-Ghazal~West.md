@@ -40,11 +40,18 @@ markerFolder: ./West_Bahr-al-Ghazal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/West_Bahr-al-Ghazal|West_Bahr-al-Ghazal]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/West_Bahr-al-Ghazal.public|West_Bahr-al-Ghazal.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/West_Bahr-al-Ghazal.internal|West_Bahr-al-Ghazal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/West_Bahr-al-Ghazal.protect|West_Bahr-al-Ghazal.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/West_Bahr-al-Ghazal.private|West_Bahr-al-Ghazal.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/West_Bahr-al-Ghazal.personal|West_Bahr-al-Ghazal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/West_Bahr-al-Ghazal.secret|West_Bahr-al-Ghazal.secret]] 
+
+### #is_/same_as :: [Bahr-al-Ghazal~West](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~West.md) 
+
+### #is_/same_as :: [Bahr-al-Ghazal~West.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~West.public.md) 
+
+### #is_/same_as :: [Bahr-al-Ghazal~West.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~West.internal.md) 
+
+### #is_/same_as :: [Bahr-al-Ghazal~West.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~West.protect.md) 
+
+### #is_/same_as :: [Bahr-al-Ghazal~West.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~West.private.md) 
+
+### #is_/same_as :: [Bahr-al-Ghazal~West.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~West.personal.md) 
+
+### #is_/same_as :: [Bahr-al-Ghazal~West.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~West.secret.md)
 

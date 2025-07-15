@@ -40,11 +40,18 @@ markerFolder: ./Upper_Nile/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile|Upper_Nile]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.public|Upper_Nile.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.internal|Upper_Nile.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.protect|Upper_Nile.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.private|Upper_Nile.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.personal|Upper_Nile.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Upper_Nile.secret|Upper_Nile.secret]] 
+
+### #is_/same_as :: [Nile~Upper](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.md) 
+
+### #is_/same_as :: [Nile~Upper.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.public.md) 
+
+### #is_/same_as :: [Nile~Upper.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.internal.md) 
+
+### #is_/same_as :: [Nile~Upper.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.protect.md) 
+
+### #is_/same_as :: [Nile~Upper.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.private.md) 
+
+### #is_/same_as :: [Nile~Upper.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.personal.md) 
+
+### #is_/same_as :: [Nile~Upper.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.secret.md)
 

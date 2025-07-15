@@ -40,11 +40,18 @@ markerFolder: ./Unity/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sudan~South/Counties/Unity|Unity]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sudan~South/Counties/Unity.public|Unity.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sudan~South/Counties/Unity.internal|Unity.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sudan~South/Counties/Unity.protect|Unity.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sudan~South/Counties/Unity.private|Unity.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sudan~South/Counties/Unity.personal|Unity.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sudan~South/Counties/Unity.secret|Unity.secret]] 
+
+### #is_/same_as :: [Unity](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Unity.md) 
+
+### #is_/same_as :: [Unity.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Unity.public.md) 
+
+### #is_/same_as :: [Unity.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Unity.internal.md) 
+
+### #is_/same_as :: [Unity.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Unity.protect.md) 
+
+### #is_/same_as :: [Unity.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Unity.private.md) 
+
+### #is_/same_as :: [Unity.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Unity.personal.md) 
+
+### #is_/same_as :: [Unity.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Unity.secret.md)
 
