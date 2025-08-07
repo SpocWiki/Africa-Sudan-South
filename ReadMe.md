@@ -117,5 +117,19 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [	ISO3166-1-numeric	 :: 728 ] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/ReadMe.md) 
+
+### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/ReadMe.public.md) 
+
+### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/ReadMe.internal.md) 
+
+### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/ReadMe.protect.md) 
+
+### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/ReadMe.private.md) 
+
+### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/ReadMe.personal.md) 
+
+### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/ReadMe.secret.md)
 
