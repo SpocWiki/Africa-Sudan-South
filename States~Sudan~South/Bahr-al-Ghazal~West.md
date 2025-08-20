@@ -1,30 +1,29 @@
 ---
-location: [ 8.5 , 25.1 ] 
+location:
+  - 8.5
+  - 25.1
 type: geo-Region
 title: West_Bahr-al-Ghazal
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- West_Bahr-al-Ghazal
-
+  - West_Bahr-al-Ghazal
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # West_Bahr-al-Ghazal
