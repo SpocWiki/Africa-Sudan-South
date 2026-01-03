@@ -40,17 +40,17 @@ markerFolder: ./Lakes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lakes](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Lakes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Lakes|Lakes]] 
 
-### #is_/same_as :: [Lakes.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Lakes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Lakes.public|Lakes.public]] 
 
-### #is_/same_as :: [Lakes.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Lakes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Lakes.internal|Lakes.internal]] 
 
-### #is_/same_as :: [Lakes.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Lakes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Lakes.protect|Lakes.protect]] 
 
-### #is_/same_as :: [Lakes.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Lakes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Lakes.private|Lakes.private]] 
 
-### #is_/same_as :: [Lakes.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Lakes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Lakes.personal|Lakes.personal]] 
 
-### #is_/same_as :: [Lakes.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Lakes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Lakes.secret|Lakes.secret]] 
 

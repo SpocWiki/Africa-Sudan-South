@@ -40,17 +40,17 @@ markerFolder: ./Central_Equatoria/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Equatoria~Central](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Equatoria~Central|Equatoria~Central]] 
 
-### #is_/same_as :: [Equatoria~Central.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Equatoria~Central.public|Equatoria~Central.public]] 
 
-### #is_/same_as :: [Equatoria~Central.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Equatoria~Central.internal|Equatoria~Central.internal]] 
 
-### #is_/same_as :: [Equatoria~Central.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Equatoria~Central.protect|Equatoria~Central.protect]] 
 
-### #is_/same_as :: [Equatoria~Central.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Equatoria~Central.private|Equatoria~Central.private]] 
 
-### #is_/same_as :: [Equatoria~Central.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Equatoria~Central.personal|Equatoria~Central.personal]] 
 
-### #is_/same_as :: [Equatoria~Central.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Equatoria~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Equatoria~Central.secret|Equatoria~Central.secret]] 
 

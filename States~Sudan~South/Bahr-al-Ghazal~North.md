@@ -40,17 +40,17 @@ markerFolder: ./North_Bahr-al-Ghazal/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bahr-al-Ghazal~North](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North|Bahr-al-Ghazal~North]] 
 
-### #is_/same_as :: [Bahr-al-Ghazal~North.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.public|Bahr-al-Ghazal~North.public]] 
 
-### #is_/same_as :: [Bahr-al-Ghazal~North.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.internal|Bahr-al-Ghazal~North.internal]] 
 
-### #is_/same_as :: [Bahr-al-Ghazal~North.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.protect|Bahr-al-Ghazal~North.protect]] 
 
-### #is_/same_as :: [Bahr-al-Ghazal~North.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.private|Bahr-al-Ghazal~North.private]] 
 
-### #is_/same_as :: [Bahr-al-Ghazal~North.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.personal|Bahr-al-Ghazal~North.personal]] 
 
-### #is_/same_as :: [Bahr-al-Ghazal~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Bahr-al-Ghazal~North.secret|Bahr-al-Ghazal~North.secret]] 
 

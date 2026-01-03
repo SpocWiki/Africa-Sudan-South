@@ -40,17 +40,17 @@ markerFolder: ./Jungoli/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jungoli](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Jungoli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Jungoli|Jungoli]] 
 
-### #is_/same_as :: [Jungoli.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Jungoli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Jungoli.public|Jungoli.public]] 
 
-### #is_/same_as :: [Jungoli.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Jungoli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Jungoli.internal|Jungoli.internal]] 
 
-### #is_/same_as :: [Jungoli.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Jungoli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Jungoli.protect|Jungoli.protect]] 
 
-### #is_/same_as :: [Jungoli.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Jungoli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Jungoli.private|Jungoli.private]] 
 
-### #is_/same_as :: [Jungoli.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Jungoli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Jungoli.personal|Jungoli.personal]] 
 
-### #is_/same_as :: [Jungoli.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Jungoli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Jungoli.secret|Jungoli.secret]] 
 

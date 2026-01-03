@@ -40,17 +40,17 @@ markerFolder: ./Upper_Nile/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nile~Upper](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Nile~Upper|Nile~Upper]] 
 
-### #is_/same_as :: [Nile~Upper.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Nile~Upper.public|Nile~Upper.public]] 
 
-### #is_/same_as :: [Nile~Upper.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Nile~Upper.internal|Nile~Upper.internal]] 
 
-### #is_/same_as :: [Nile~Upper.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Nile~Upper.protect|Nile~Upper.protect]] 
 
-### #is_/same_as :: [Nile~Upper.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Nile~Upper.private|Nile~Upper.private]] 
 
-### #is_/same_as :: [Nile~Upper.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Nile~Upper.personal|Nile~Upper.personal]] 
 
-### #is_/same_as :: [Nile~Upper.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South/States~Sudan~South/Nile~Upper.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South/States~Sudan~South/Nile~Upper.secret|Nile~Upper.secret]] 
 
